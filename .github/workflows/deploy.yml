@@ -40,6 +40,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
+      - name: Disable Jekyll by creating .nojekyll
+        run: touch dist/.nojekyll
 
   # Deployment job
   deploy:
