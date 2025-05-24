@@ -9,6 +9,7 @@ image:
 pubDate: 2025-03-27
 tags: ["CSS", "Tailwind", "Animation", "Frontend", "UI"]
 languages: ["tailwind", "html"]
+summary: "How to create border animation designs with an animated border in Tailwind CSS"
 ---
 
 The `border` property in CSS cannot be animated natively. However, we can simulate this effect by using a `div` with an animated background and placing the content inside a child element with `padding`, which will act as the "thickness" of the border.
