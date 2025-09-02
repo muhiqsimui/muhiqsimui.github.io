@@ -11,4 +11,4 @@ image:
 
 **MyHugoBlog** Sharing inspiration and knowledge across diverse topics like technology, science, art, nature, and the latest news. Curated by Muhammad Iqbal, an experienced developer, designer, and freelancer, offering informative, practical, and easy-to-understand content article.
 
-visit on **<a href="https://myhugoweb.pages.dev">MyHugoBlog</a>** Now
+visit now on **<a href="https://myhugoweb.pages.dev">MyHugoBlog</a>**
